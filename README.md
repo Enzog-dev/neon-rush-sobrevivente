@@ -1,4 +1,7 @@
+
 # Neon Rush: Sobrevivente
+
+![Gameplay do Neon Rush: Sobrevivente](neon-rush-gameplay.png)
 
 Jogo de sobrevivência desenvolvido em Lua utilizando o PICO-8. O objetivo é sobreviver aos inimigos, coletar moedas e avançar pelos níveis até alcançar a vitória.
 
